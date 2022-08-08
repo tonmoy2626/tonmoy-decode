@@ -184,7 +184,7 @@ def menu():
 
     print ''
 
-    print '\033[0;93mAUTHOR   : tonmoymahato
+    print '\033[0;93mAUTHOR   : tonmoy mahato'
 
     print '\033[0;94mFACEBOOK : TONMOY'
 
